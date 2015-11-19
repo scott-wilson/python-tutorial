@@ -11,7 +11,7 @@ email: scott@propersquid.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple Python tutorial for artists working in VFX, animation, or games.
   This tutorial focuses on Python 2.7.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/python-tutorial" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: propersquid
 github_username:  scott-wilson
