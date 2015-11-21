@@ -20,6 +20,4 @@ github_source_url: https://github.com/scott-wilson/python-tutorial
 github_issues_url: https://github.com/scott-wilson/python-tutorial/issues
 
 # Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: redcarpet
