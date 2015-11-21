@@ -9,14 +9,15 @@
 title: Python Tutorial for Artists
 email: scott@propersquid.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple Python tutorial for artists working in VFX, animation, or games.
+  A simple Python tutorial for artists working in animation, VFX, or games.
   This tutorial focuses on Python 2.7.
 baseurl: "/python-tutorial" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: propersquid
-github_username:  scott-wilson
-linkedin_username:  scott-wilson-9876a767
-linkedin_nicename:  scott-wilson
+url: "https://scott-wilson.github.io" # the base hostname & protocol for your site
+
+# GitHub Links
+github_download_url: https://github.com/scott-wilson/python-tutorial/archive/master.zip
+github_source_url: https://github.com/scott-wilson/python-tutorial
+github_issues_url: https://github.com/scott-wilson/python-tutorial/issues
 
 # Build settings
 markdown: kramdown
