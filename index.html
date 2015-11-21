@@ -3,5 +3,6 @@ layout: default
 ---
 
 <div class="home">
-  {% markdown index.md %}
+  {% capture index %}{% include index.md %}{% endcapture index %}
+  {{ index | markdownify}}
 </div>
