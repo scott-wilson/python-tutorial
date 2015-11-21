@@ -10,25 +10,25 @@ Contents
 
 Pure Python (Start here first)
 ------------------------------
-- Cheat Sheet
-- Examples
+- [Cheat Sheet]({{ site.baseurl }}{% post_url /python/2015-11-21-cheat-sheet %})
+- [Examples]({{ site.baseurl }}{% post_url /python/2015-11-21-examples %})
 
 
-1. What is Python?
-2. Installation
-3. Types
-4. Variables
-5. Conditions
-6. Loops
-7. Functions
-8. Code Documentation
-9. Error Handling
-10. Exceptions
-11. Classes
-12. Modules
-13. The Standard Library
-14. Challenges
-15. Final Notes
+1. [What is Python?]({{ site.baseurl }}{% post_url /python/2015-11-21-what-is-python %})
+2. [Installation]({{ site.baseurl }}{% post_url /python/2015-11-21-installation %})
+3. [Types]({{ site.baseurl }}{% post_url /python/2015-11-21-types %})
+4. [Variables]({{ site.baseurl }}{% post_url /python/2015-11-21-variables %})
+5. [Conditions]({{ site.baseurl }}{% post_url /python/2015-11-21-conditions %})
+6. [Loops]({{ site.baseurl }}{% post_url /python/2015-11-21-loops %})
+7. [Functions]({{ site.baseurl }}{% post_url /python/2015-11-21-functions %})
+8. [Code Documentation]({{ site.baseurl }}{% post_url /python/2015-11-21-code-documentation %})
+9. [Error Handling]({{ site.baseurl }}{% post_url /python/2015-11-21-error-handling %})
+10. [Exceptions]({{ site.baseurl }}{% post_url /python/2015-11-21-exceptions %})
+11. [Classes]({{ site.baseurl }}{% post_url /python/2015-11-21-classes %})
+12. [Modules]({{ site.baseurl }}{% post_url /python/2015-11-21-modules %})
+13. [The Standard Library]({{ site.baseurl }}{% post_url /python/2015-11-21-the-standard-library %})
+14. [Challenges]({{ site.baseurl }}{% post_url /python/2015-11-21-challenges %})
+15. [Final Notes]({{ site.baseurl }}{% post_url /python/2015-11-21-final-notes %})
 
 User Interfaces
 ---------------
