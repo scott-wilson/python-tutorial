@@ -10,7 +10,9 @@ Contents
 
 Pure Python (Start here first)
 ------------------------------
-Cheat Sheet
+- Cheat Sheet
+- Examples
+
 
 1. What is Python?
 2. Installation
@@ -28,9 +30,28 @@ Cheat Sheet
 14. Challenges
 15. Final Notes
 
+User Interfaces
+---------------
+- Cheat Sheet
+- Examples
+
+
+1. Installing PySide
+2. Basic Theory
+3. Creating a Simple Application
+4. Widgets
+5. Layouts
+6. Connections
+7. Icons
+8. Style Sheets
+9. Challenges
+10. Final Notes
+
 Maya (MEL)
 ----------
-Cheat Sheet
+- Cheat Sheet
+- Examples
+
 
 1. Introduction
 2. Syntax
@@ -43,7 +64,9 @@ Cheat Sheet
 
 Maya (C++ API)
 --------------
-Cheat Sheet
+- Cheat Sheet
+- Examples
+
 
 1. Introduction
 2. Creating Nodes
@@ -54,7 +77,9 @@ Cheat Sheet
 
 Nuke
 ----
-Cheat Sheet
+- Cheat Sheet
+- Examples
+
 
 1. Introduction
 2. Creating Nodes
