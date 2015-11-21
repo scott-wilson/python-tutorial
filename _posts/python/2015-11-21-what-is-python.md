@@ -14,7 +14,7 @@ The reason why it is so quick to develop in can be summed up in the example of t
 
 C++
 ---
-```c++
+```cpp
 // C++ Example
 #include <iostream>
 
