@@ -87,3 +87,7 @@ Nuke
 4. Manipulating Nodes
 5. Challenges
 6. Final Notes
+
+Final Thoughts
+--------------
+- [Acknowledgements]({{ site.baseurl }}{% post_url /2015-11-21-acknowledgements %})
