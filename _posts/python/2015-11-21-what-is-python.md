@@ -32,3 +32,7 @@ print "Hello World!"
 ```
 
 While C++ is arguably a faster language to for the computer to process, Python is usually faster for the developer to write. Another benefit is that Python is what is called an "interpreted language" vs C++'s "compiled language". This means that C++ will have to convert the source code into machine code before it can run, while Python will convert to byte code that Python will then interpret when ran. So, this lets a developer quickly build and test code in Python, but the drawback is that Python will run slower than C++.
+
+Next Steps
+==========
+Next thing we're going to do is [install Python on your machine]({{ site.baseurl }}{% post_url /python/2015-11-21-installation %}). If you already have Python, you can skip this step and go straight to the [Python Types page]({{ site.baseurl }}{% post_url /python/2015-11-21-types %}).
