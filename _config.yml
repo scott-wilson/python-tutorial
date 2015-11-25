@@ -21,3 +21,9 @@ github_issues_url: https://github.com/scott-wilson/python-tutorial/issues
 
 # Build settings
 markdown: redcarpet
+redcarpet:
+  extensions:
+    - fenced_code_blocks
+    - tables
+    - autolink
+    - with_toc_data
